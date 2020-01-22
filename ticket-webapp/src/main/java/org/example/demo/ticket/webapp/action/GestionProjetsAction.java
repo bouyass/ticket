@@ -9,7 +9,7 @@ import java.util.List;
 
 public class GestionProjetsAction extends ActionSupport {
 
-    // attributes class
+    // attributes classs
 
     private List<Projet> listProjets;
     private Projet projet;
